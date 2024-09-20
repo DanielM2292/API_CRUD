@@ -1,2 +1,11 @@
 -> npm init -y
 -> npm i express
+-> npm i nodemon -D
+
+->user // danielns871 
+->password: lMoAjJ9UsxLUWTo7
+
+-> npm install mongodb
+-> npm i mongoose
+
+/// mongodb+srv://danielns871:lMoAjJ9UsxLUWTo7@cluster0.ptr3o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
